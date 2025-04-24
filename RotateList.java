@@ -1,5 +1,10 @@
 package neetcode.linkedList;
 
+import neetcode.ArrayandHashing.Interview;
+import org.w3c.dom.Node;
+
+import java.util.LinkedList;
+
 public class RotateList {
     class ListNode{
        ListNode next;
